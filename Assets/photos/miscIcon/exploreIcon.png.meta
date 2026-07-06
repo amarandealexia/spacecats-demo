@@ -1,0 +1,2392 @@
+fileFormatVersion: 2
+guid: 6c506d608ed25c943bde72f77c3f0049
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 642195674564358592
+    second: exploreIcon_0
+  - first:
+      213: 6309341198157926896
+    second: exploreIcon_1
+  - first:
+      213: 12481945132781518
+    second: exploreIcon_2
+  - first:
+      213: -3025171294523335244
+    second: exploreIcon_3
+  - first:
+      213: -8640754915644800835
+    second: exploreIcon_4
+  - first:
+      213: -8460543715795822450
+    second: exploreIcon_5
+  - first:
+      213: -8421289972995193527
+    second: exploreIcon_6
+  - first:
+      213: 6272240783937017541
+    second: exploreIcon_7
+  - first:
+      213: 8139477481060853816
+    second: exploreIcon_8
+  - first:
+      213: 1668222512657883157
+    second: exploreIcon_9
+  - first:
+      213: -3261073884155048405
+    second: exploreIcon_10
+  - first:
+      213: -5060597161973686300
+    second: exploreIcon_11
+  - first:
+      213: 8920207508600102025
+    second: exploreIcon_12
+  - first:
+      213: -1360233293261306060
+    second: exploreIcon_13
+  - first:
+      213: -7412411320870283158
+    second: exploreIcon_14
+  - first:
+      213: -2453642753702478491
+    second: exploreIcon_15
+  - first:
+      213: 1074011461478530188
+    second: exploreIcon_16
+  - first:
+      213: -1007893119332785725
+    second: exploreIcon_17
+  - first:
+      213: -531334630582033548
+    second: exploreIcon_18
+  - first:
+      213: -7496211855837050707
+    second: exploreIcon_19
+  - first:
+      213: -3441535920886042885
+    second: exploreIcon_20
+  - first:
+      213: 8867570853085209337
+    second: exploreIcon_21
+  - first:
+      213: -8226321438129406042
+    second: exploreIcon_22
+  - first:
+      213: -7380346417821052478
+    second: exploreIcon_23
+  - first:
+      213: -5337679948187122267
+    second: exploreIcon_24
+  - first:
+      213: 3012236452832179203
+    second: exploreIcon_25
+  - first:
+      213: 7106614616739154451
+    second: exploreIcon_26
+  - first:
+      213: -842498489529207292
+    second: exploreIcon_27
+  - first:
+      213: 6574197378148705101
+    second: exploreIcon_28
+  - first:
+      213: -5570597332132596909
+    second: exploreIcon_29
+  - first:
+      213: 6891260603191211484
+    second: exploreIcon_30
+  - first:
+      213: 3826172473462286697
+    second: exploreIcon_31
+  - first:
+      213: 4853460597108894968
+    second: exploreIcon_32
+  - first:
+      213: 489297962133518687
+    second: exploreIcon_33
+  - first:
+      213: 7290478011302768477
+    second: exploreIcon_34
+  - first:
+      213: -1430564279340272077
+    second: exploreIcon_35
+  - first:
+      213: 6188805495457821300
+    second: exploreIcon_36
+  - first:
+      213: 4968611298460349733
+    second: exploreIcon_37
+  - first:
+      213: -8444804217832691125
+    second: exploreIcon_38
+  - first:
+      213: 8149124006149466790
+    second: exploreIcon_39
+  - first:
+      213: 2115440361625529767
+    second: exploreIcon_40
+  - first:
+      213: -4872755407387805914
+    second: exploreIcon_41
+  - first:
+      213: 6754829251585910339
+    second: exploreIcon_42
+  - first:
+      213: 2044599322956568186
+    second: exploreIcon_43
+  - first:
+      213: -7323901435730835273
+    second: exploreIcon_44
+  - first:
+      213: -5870262385712321204
+    second: exploreIcon_45
+  - first:
+      213: 5017193929251513836
+    second: exploreIcon_46
+  - first:
+      213: -8003220162987240588
+    second: exploreIcon_47
+  - first:
+      213: -8250205775664857708
+    second: exploreIcon_48
+  - first:
+      213: 965434432817869429
+    second: exploreIcon_49
+  - first:
+      213: -2545016202239875063
+    second: exploreIcon_50
+  - first:
+      213: 8050550428695374649
+    second: exploreIcon_51
+  - first:
+      213: -8941907933630669351
+    second: exploreIcon_52
+  - first:
+      213: -7264491184191578547
+    second: exploreIcon_53
+  - first:
+      213: 8820062138123026342
+    second: exploreIcon_54
+  - first:
+      213: -8766981530755572905
+    second: exploreIcon_55
+  - first:
+      213: -2733258812046981460
+    second: exploreIcon_56
+  - first:
+      213: 1435114450448198590
+    second: exploreIcon_57
+  - first:
+      213: 4589563017658366838
+    second: exploreIcon_58
+  - first:
+      213: 6844848679355726097
+    second: exploreIcon_59
+  - first:
+      213: -7461301343141513885
+    second: exploreIcon_60
+  - first:
+      213: 7352361020594963583
+    second: exploreIcon_61
+  - first:
+      213: -4590729297762706598
+    second: exploreIcon_62
+  - first:
+      213: 2269722652584021335
+    second: exploreIcon_63
+  - first:
+      213: -8199787041583532214
+    second: exploreIcon_64
+  - first:
+      213: 8141969170279909724
+    second: exploreIcon_65
+  - first:
+      213: -7538971997540798066
+    second: exploreIcon_66
+  - first:
+      213: -133208058069320003
+    second: exploreIcon_67
+  - first:
+      213: -7717968557276562944
+    second: exploreIcon_68
+  - first:
+      213: 8135037371017133845
+    second: exploreIcon_69
+  - first:
+      213: -5868570901683699186
+    second: exploreIcon_70
+  - first:
+      213: -2025302739803366765
+    second: exploreIcon_71
+  - first:
+      213: -1269445919724807271
+    second: exploreIcon_72
+  - first:
+      213: 1480779464459340402
+    second: exploreIcon_73
+  - first:
+      213: 6546663264485308600
+    second: exploreIcon_74
+  - first:
+      213: -6981690255767711246
+    second: exploreIcon_75
+  - first:
+      213: -3956771158927163777
+    second: exploreIcon_76
+  - first:
+      213: -6430406659728834396
+    second: exploreIcon_77
+  - first:
+      213: -6776437207711946920
+    second: exploreIcon_78
+  - first:
+      213: 3518174383953608171
+    second: exploreIcon_79
+  - first:
+      213: -8784734275041813387
+    second: exploreIcon_80
+  - first:
+      213: 4300420651154380834
+    second: exploreIcon_81
+  - first:
+      213: -1034252944870309768
+    second: exploreIcon_82
+  - first:
+      213: 7631759971792295115
+    second: exploreIcon_83
+  - first:
+      213: -3863212571454703091
+    second: exploreIcon_84
+  - first:
+      213: 8095007012897589693
+    second: exploreIcon_85
+  - first:
+      213: -8460896879159103768
+    second: exploreIcon_86
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: exploreIcon_0
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 994
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c173b2409989e800800000000000000
+      internalID: 642195674564358592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1005
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1d0f234684f8750800000000000000
+      internalID: 6309341198157926896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_2
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1000
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfceb153485c2000800000000000000
+      internalID: 12481945132781518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_3
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1000
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd5a355cbe6406d0800000000000000
+      internalID: -3025171294523335244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 978
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db008c55f2fd51880800000000000000
+      internalID: -8640754915644800835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 977
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88935df05c169a80800000000000000
+      internalID: -8460543715795822450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_6
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 978
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94500113361912b80800000000000000
+      internalID: -8421289972995193527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_7
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 977
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c69840e2c97b0750800000000000000
+      internalID: 6272240783937017541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_8
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 986
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8386cebe4ab35f070800000000000000
+      internalID: 8139477481060853816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_9
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 964
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51068416987b62710800000000000000
+      internalID: 1668222512657883157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 967
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e82ac84965eb2d0800000000000000
+      internalID: -3261073884155048405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_11
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 971
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef553181b525c9b0800000000000000
+      internalID: -5060597161973686300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_12
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 963
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c91e0c771facb70800000000000000
+      internalID: 8920207508600102025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 955
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437008fc60b7f1de0800000000000000
+      internalID: -1360233293261306060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_14
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 962
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6851722d23d12990800000000000000
+      internalID: -7412411320870283158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 966
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d3adb5ae8e2fdd0800000000000000
+      internalID: -2453642753702478491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_16
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 964
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c302edbb7a7ee00800000000000000
+      internalID: 1074011461478530188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_17
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 962
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1eb9a4c8e3302f0800000000000000
+      internalID: -1007893119332785725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_18
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 977
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4736b47f7f150a8f0800000000000000
+      internalID: -531334630582033548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_19
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 964
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8c2c3a80b18f790800000000000000
+      internalID: -7496211855837050707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 977
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe27d160553d30d0800000000000000
+      internalID: -3441535920886042885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_21
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 965
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f260ce55b0ff0b70800000000000000
+      internalID: 8867570853085209337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_22
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 966
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afbd18ac3c36dd80800000000000000
+      internalID: -8226321438129406042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_23
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 963
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c11376290eb39990800000000000000
+      internalID: -7380346417821052478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_24
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 969
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5c49b0e50cce5b0800000000000000
+      internalID: -5337679948187122267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_25
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 972
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3047b86281d9dc920800000000000000
+      internalID: 3012236452832179203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_26
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 974
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a065a6754cf9260800000000000000
+      internalID: 7106614616739154451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_27
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 975
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406fec76618de44f0800000000000000
+      internalID: -842498489529207292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_28
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 975
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43abdf0fad3c3b50800000000000000
+      internalID: 6574197378148705101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_29
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 954
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3537f7f9d3341b2b0800000000000000
+      internalID: -5570597332132596909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_30
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 965
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd53bd3d10da2af50800000000000000
+      internalID: 6891260603191211484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_31
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 959
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969e81ab79b491530800000000000000
+      internalID: 3826172473462286697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_32
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 968
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fce706c2b4fa5340800000000000000
+      internalID: 4853460597108894968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_33
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 952
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f597a4677e55ac600800000000000000
+      internalID: 489297962133518687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_34
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 961
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f6f7aef1bfc2560800000000000000
+      internalID: 7290478011302768477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 942
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3367f8d0e5d952ce0800000000000000
+      internalID: -1430564279340272077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_36
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 954
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472bfb4fecd03e550800000000000000
+      internalID: 6188805495457821300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_37
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 949
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525b8bfa6ad04f440800000000000000
+      internalID: 4968611298460349733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_38
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 957
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4aac5e6e470eca80800000000000000
+      internalID: -8444804217832691125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 949
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aaa5219b11871170800000000000000
+      internalID: 8149124006149466790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_40
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 951
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ada6320dcd8b5d10800000000000000
+      internalID: 2115440361625529767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_41
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 947
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627394126ce706cb0800000000000000
+      internalID: -4872755407387805914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_42
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 954
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346223b6a69fdbd50800000000000000
+      internalID: 6754829251585910339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_43
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 948
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7694d06040ef5c10800000000000000
+      internalID: 2044599322956568186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_44
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 949
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b84a49a2764c5a90800000000000000
+      internalID: -7323901435730835273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_45
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 948
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4da7415673a88ea0800000000000000
+      internalID: -5870262385712321204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_46
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 954
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce56842eb47a0a540800000000000000
+      internalID: 5017193929251513836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_47
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 949
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473d6e52aa9dee090800000000000000
+      internalID: -8003220162987240588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_48
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 951
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49dbe99fe81618d80800000000000000
+      internalID: -8250205775664857708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_49
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 956
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5723a066089e56d00800000000000000
+      internalID: 965434432817869429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_50
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 951
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908e0e58f394eacd0800000000000000
+      internalID: -2545016202239875063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_51
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 948
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ba1c416fc49bf60800000000000000
+      internalID: 8050550428695374649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_52
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 951
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd52b15c16f7e380800000000000000
+      internalID: -8941907933630669351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_53
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 949
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4edd44c1c75f2b90800000000000000
+      internalID: -7264491184191578547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_54
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 956
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aff1bfa8c7276a70800000000000000
+      internalID: 8820062138123026342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_55
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 953
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b57ea4fbc655680800000000000000
+      internalID: -8766981530755572905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_56
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 951
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6cbb48793811ad0800000000000000
+      internalID: -2733258812046981460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_57
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 931
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbaef63dfc8ae310800000000000000
+      internalID: 1435114450448198590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_58
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 943
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bfbcd7f3761bf30800000000000000
+      internalID: 4589563017658366838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_59
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 935
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119bc4abb99cdfe50800000000000000
+      internalID: 6844848679355726097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_60
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 943
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365b7e7c5f1247890800000000000000
+      internalID: -7461301343141513885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_61
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 938
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74cdfcc465d80660800000000000000
+      internalID: 7352361020594963583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_62
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 942
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b10e2c6047a40c0800000000000000
+      internalID: -4590729297762706598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_63
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 933
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d8ded1abcaf7f10800000000000000
+      internalID: 2269722652584021335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_64
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 939
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47ff884121843e80800000000000000
+      internalID: -8199787041583532214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_65
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 943
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5947b682d51ef070800000000000000
+      internalID: 8141969170279909724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_66
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 934
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81b6f259e0306790800000000000000
+      internalID: -7538971997540798066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_67
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 940
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbefe891affb62ef0800000000000000
+      internalID: -133208058069320003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_68
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 928
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a75eb1d7444e490800000000000000
+      internalID: -7717968557276562944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_69
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 926
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ff00e336575e070800000000000000
+      internalID: 8135037371017133845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_70
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 929
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0203f1abd5ae8ea0800000000000000
+      internalID: -5868570901683699186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_71
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 924
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a156f73eda4e3e0800000000000000
+      internalID: -2025302739803366765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_72
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 935
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bdb3d69a5026ee0800000000000000
+      internalID: -1269445919724807271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_73
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 928
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27acac1d319cc8410800000000000000
+      internalID: 1480779464459340402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_74
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 914
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8feb7ad8b6ada50800000000000000
+      internalID: 6546663264485308600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_75
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 910
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1d825f3bd0c1f90800000000000000
+      internalID: -6981690255767711246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_76
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 911
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7eb2a64899b619c0800000000000000
+      internalID: -3956771158927163777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_77
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 804
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a08e85763b92c6a0800000000000000
+      internalID: -6430406659728834396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_78
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 222
+        width: 445
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857e69f334245f1a0800000000000000
+      internalID: -6776437207711946920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_79
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 714
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedfe6d46f013d030800000000000000
+      internalID: 3518174383953608171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_80
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 743
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c1fe968ba561680800000000000000
+      internalID: -8784734275041813387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_81
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 611
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2289fc03cc92eab30800000000000000
+      internalID: 4300420651154380834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_82
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 562
+        width: 94
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8708a152d6895a1f0800000000000000
+      internalID: -1034252944870309768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_83
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 453
+        width: 102
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc499b1724579e960800000000000000
+      internalID: 7631759971792295115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_84
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 533
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a7e9a62ac136ac0800000000000000
+      internalID: -3863212571454703091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_85
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 197
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db98e023dfd375070800000000000000
+      internalID: 8095007012897589693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploreIcon_86
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 159
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eea28cbd1bd49a80800000000000000
+      internalID: -8460896879159103768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      exploreIcon_0: 642195674564358592
+      exploreIcon_1: 6309341198157926896
+      exploreIcon_10: -3261073884155048405
+      exploreIcon_11: -5060597161973686300
+      exploreIcon_12: 8920207508600102025
+      exploreIcon_13: -1360233293261306060
+      exploreIcon_14: -7412411320870283158
+      exploreIcon_15: -2453642753702478491
+      exploreIcon_16: 1074011461478530188
+      exploreIcon_17: -1007893119332785725
+      exploreIcon_18: -531334630582033548
+      exploreIcon_19: -7496211855837050707
+      exploreIcon_2: 12481945132781518
+      exploreIcon_20: -3441535920886042885
+      exploreIcon_21: 8867570853085209337
+      exploreIcon_22: -8226321438129406042
+      exploreIcon_23: -7380346417821052478
+      exploreIcon_24: -5337679948187122267
+      exploreIcon_25: 3012236452832179203
+      exploreIcon_26: 7106614616739154451
+      exploreIcon_27: -842498489529207292
+      exploreIcon_28: 6574197378148705101
+      exploreIcon_29: -5570597332132596909
+      exploreIcon_3: -3025171294523335244
+      exploreIcon_30: 6891260603191211484
+      exploreIcon_31: 3826172473462286697
+      exploreIcon_32: 4853460597108894968
+      exploreIcon_33: 489297962133518687
+      exploreIcon_34: 7290478011302768477
+      exploreIcon_35: -1430564279340272077
+      exploreIcon_36: 6188805495457821300
+      exploreIcon_37: 4968611298460349733
+      exploreIcon_38: -8444804217832691125
+      exploreIcon_39: 8149124006149466790
+      exploreIcon_4: -8640754915644800835
+      exploreIcon_40: 2115440361625529767
+      exploreIcon_41: -4872755407387805914
+      exploreIcon_42: 6754829251585910339
+      exploreIcon_43: 2044599322956568186
+      exploreIcon_44: -7323901435730835273
+      exploreIcon_45: -5870262385712321204
+      exploreIcon_46: 5017193929251513836
+      exploreIcon_47: -8003220162987240588
+      exploreIcon_48: -8250205775664857708
+      exploreIcon_49: 965434432817869429
+      exploreIcon_5: -8460543715795822450
+      exploreIcon_50: -2545016202239875063
+      exploreIcon_51: 8050550428695374649
+      exploreIcon_52: -8941907933630669351
+      exploreIcon_53: -7264491184191578547
+      exploreIcon_54: 8820062138123026342
+      exploreIcon_55: -8766981530755572905
+      exploreIcon_56: -2733258812046981460
+      exploreIcon_57: 1435114450448198590
+      exploreIcon_58: 4589563017658366838
+      exploreIcon_59: 6844848679355726097
+      exploreIcon_6: -8421289972995193527
+      exploreIcon_60: -7461301343141513885
+      exploreIcon_61: 7352361020594963583
+      exploreIcon_62: -4590729297762706598
+      exploreIcon_63: 2269722652584021335
+      exploreIcon_64: -8199787041583532214
+      exploreIcon_65: 8141969170279909724
+      exploreIcon_66: -7538971997540798066
+      exploreIcon_67: -133208058069320003
+      exploreIcon_68: -7717968557276562944
+      exploreIcon_69: 8135037371017133845
+      exploreIcon_7: 6272240783937017541
+      exploreIcon_70: -5868570901683699186
+      exploreIcon_71: -2025302739803366765
+      exploreIcon_72: -1269445919724807271
+      exploreIcon_73: 1480779464459340402
+      exploreIcon_74: 6546663264485308600
+      exploreIcon_75: -6981690255767711246
+      exploreIcon_76: -3956771158927163777
+      exploreIcon_77: -6430406659728834396
+      exploreIcon_78: -6776437207711946920
+      exploreIcon_79: 3518174383953608171
+      exploreIcon_8: 8139477481060853816
+      exploreIcon_80: -8784734275041813387
+      exploreIcon_81: 4300420651154380834
+      exploreIcon_82: -1034252944870309768
+      exploreIcon_83: 7631759971792295115
+      exploreIcon_84: -3863212571454703091
+      exploreIcon_85: 8095007012897589693
+      exploreIcon_86: -8460896879159103768
+      exploreIcon_9: 1668222512657883157
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

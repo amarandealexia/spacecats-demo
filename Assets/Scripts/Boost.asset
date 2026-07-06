@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88c4acc1a285f03468da7855f9c1d99a, type: 3}
+  m_Name: Boost
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  cardName: Boost
+  description: 
+  artwork: {fileID: -5630504096989052938, guid: 4178c2ffe0287dc4bb964a96aeccbb62, type: 3}
+  cost: 1
+  cardType: 2
+  damage: 3
+  block: 0

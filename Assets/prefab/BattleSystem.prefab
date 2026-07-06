@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2111178806266254049
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2504604506645595355}
+  - component: {fileID: 2272596991856208294}
+  m_Layer: 0
+  m_Name: BattleSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2504604506645595355
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2111178806266254049}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 271.17444, y: 177.75652, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2272596991856208294
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2111178806266254049}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae6a28e4acfd42e408d2dc54f8d2603a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BattleManager
+  player: {fileID: 0}
+  waves:
+  - waveName: Rat
+    enemyPrefabs:
+    - {fileID: 4126853463641479464, guid: 0824f052916dd5041857f37cbf9823f8, type: 3}
+    - {fileID: 4436025376234488563, guid: b123db8ebef7aff4dac3f5522ca17133, type: 3}
+    - {fileID: 7721907078318475882, guid: 805957f033bc2ee4bbfdfbf2c791b4c5, type: 3}
+  - waveName: Boss Fight
+    enemyPrefabs:
+    - {fileID: 8182649125364300975, guid: 7d00daafd042c0d4d9fdaa1cf1d47e35, type: 3}
+  enemySpawnPositions:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  playerTurn: 1
+  enemyDamage: 0
+  maxEnergy: 3
+  currentEnergy: 0
+  energyText: {fileID: 0}
+  victoryText: {fileID: 0}
+  currentTurn: 0
+  maxTurns: 9
+  turnText: {fileID: 0}
